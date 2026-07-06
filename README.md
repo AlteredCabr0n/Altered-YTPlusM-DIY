@@ -128,12 +128,6 @@ An **altered** version of the BEST fork of enhancer for YouTube on iOS, <a href=
 
 ## Supported YouTube Version
 <ul>
-   <li><strong>Latest confirmed:</strong> <em>21.13.6</em></li>
-   <li><strong>Date tested:</strong> <em>Apr 1, 2026</em></li>
-   <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
-</ul>  
-
-<ul>
    <li><strong>Latest confirmed:</strong> <em>21.22.4</em></li>
    <li><strong>Date tested:</strong> <em>May 30, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2.1</em></li>
