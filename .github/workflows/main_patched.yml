@@ -93,6 +93,12 @@ on:
        required: true
        default: false
 
+      enable_ytpf:
+       description: "NEW! Integrate YTPlaybackFix (YTPlusM)"
+       type: boolean
+       required: true
+       default: false
+
       ipa_url:
         description: "URL to the decrypted IPA file"
         default: ""
@@ -146,6 +152,7 @@ jobs:
       enable_ytlcm: ${{ inputs.enable_ytlcm }}
       enable_VolumeBoostYT: ${{ inputs.enable_VolumeBoostYT }}
       enable_YouGetCaption: ${{ inputs.enable_YouGetCaption }}
+      enable_ytpf: ${{ inputs.enable_ytpf }}
       tweak_version: ${{ inputs.tweak_version }}
 
 
