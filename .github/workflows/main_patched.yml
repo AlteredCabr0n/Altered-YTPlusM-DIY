@@ -76,19 +76,19 @@ on:
        default: false
 
       enable_ytlcm:
-       description: "NEW! Integrate YTLowContrastMode (YTPlusM)"
+       description: "Integrate YTLowContrastMode (YTPlusM)"
        type: boolean
        required: true
        default: false
 
       enable_VolumeBoostYT:
-       description: "NEW! Integrate VolumeBoostYT (YTPlusM)"
+       description: "Integrate VolumeBoostYT (YTPlusM)"
        type: boolean
        required: true
        default: false
 
       enable_YouGetCaption:
-       description: "NEW! Integrate YouGetCaption (YTPlusM)"
+       description: "Integrate YouGetCaption (YTPlusM)"
        type: boolean
        required: true
        default: false
